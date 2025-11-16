@@ -2,7 +2,7 @@ MCP Crypto Market Data Server
 
 This project is a Python-based MCP server that provides real-time and historical cryptocurrency market data. The server is built using FastAPI, and it fetches data from major exchanges through CCXT. The goal of this project was to understand how MCP servers work, how to interact with crypto APIs, and how to build a clean, modular Python backend.
 
-*88Why I Built It
+*Why I Built It
 
 The assignment required a small MCP server with features like:
 
